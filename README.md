@@ -1,4 +1,8 @@
-## Hi there 👋
+## 🎓 Certifications
+- IT Passport (IPA)
+- Information Security Management (SG)
+- Fundamental Information Technology Engineer (FE)
+- Applied Information Technology Engineer (AP) — awaiting official results (expected pass)
 
 <!--
 **Ruka1265/Ruka1265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
